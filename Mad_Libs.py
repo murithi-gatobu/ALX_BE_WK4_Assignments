@@ -1,0 +1,6 @@
+noun = str(input("Enter a noun: "))
+verb = str(input("Enter a verb: ")) 
+adjective = str(input("Enter an adjective: "))
+adverb = str(input("Enter an adverb: "))
+print("Do you " + str(verb) + " your " + str(adjective) + " " + str(noun) + " " + str(adverb) + "? That's hilarious!")
+print("One of these fine days," + str(adverb) + " I will " + str(verb) + " my " + str(adjective) + " " + str(noun) + ".")
